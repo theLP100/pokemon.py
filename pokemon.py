@@ -1,13 +1,19 @@
 import requests
 
+# I REALLY WANT TO PUT THIS ON GITHUB, BUT I CAN'T FIGURE OUT HOW TO.
+# FOR NOW, LET'S JUST MAKE THE APP.  GO TO OFFICE HOURS TO GET HELP DOING THIS!!!!
+
+
 #query_params is a good way to organize everything without having to clutter up your functions 
 # with so many varibles getting passed around!  just like my king of tokyo projecgt.
 
 #can query params have things in it that don't get assigned?  maybe have a default?
 
+#
 query_params = {
     #"id" : 5
     #this is empty now, but let's leave it, in case we want to pass info later. 
+    #IF NOT SPECIFIED in the path {"id":3} or {"title":"saving wishes"}
 }
 #this gets all of charmeleons data.  still need to figure out how to dig through it.
 #remember to get it working first, get it pretty later.  ideas are worthless without EXECUTION.
